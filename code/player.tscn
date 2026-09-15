@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cilestfet8ose"]
+
+[node name="Game" type="Node2D" unique_id=1452736401]
+
+[node name="Player" type="CharacterBody2D" parent="." unique_id=1624494309]
+
+[node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1628958002]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=768664601]
